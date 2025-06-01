@@ -1,0 +1,23 @@
+# Ignore everything outside the project scope
+*.pyc
+__pycache__/
+.env
+.venv/
+.idea/
+.vscode/
+*.ipynb_checkpoints
+*.log
+
+# Windows system folders
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+NTUSER.*
+*.ini
+
+# Jupyter Notebook auto-saves
+*.ipynb_checkpoints/
