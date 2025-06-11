@@ -21,3 +21,7 @@ NTUSER.*
 
 # Jupyter Notebook auto-saves
 *.ipynb_checkpoints/
+
+dist
+build
+main.spec
